@@ -1,1 +1,0 @@
-# Merck_NLP_Protein_Sequences
